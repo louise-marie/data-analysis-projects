@@ -1,6 +1,6 @@
-# data-analysis-projects
+# Data Analysis Projects
 A repository for projects where I practice data analysis using SQL.
 
-SQL
+## SQL
 1. Video Game Sales 
 - Kaggle Dataset: https://www.kaggle.com/datasets/gregorut/videogamesales
