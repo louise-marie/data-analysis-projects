@@ -1,5 +1,5 @@
 # Data Analysis Projects
-A repository for projects where I practice data analysis using SQL.
+A repository for projects where I practice data analysis.
 
 ## SQL
 1. Video Game Sales 
