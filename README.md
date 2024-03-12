@@ -8,6 +8,6 @@ A repository for projects where I practice data analysis.
 - Kaggle Dataset: https://www.kaggle.com/datasets/arashnic/fitbit
 - For Coursera Google Capstone Project
 
-## Preppindata
+## Preppindata (https://www.preppindata.com/)
 2024
 - Week 1: Prep Air's Flow Card - SQL
