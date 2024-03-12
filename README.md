@@ -7,3 +7,7 @@ A repository for projects where I practice data analysis.
 2. Bellabeat
 - Kaggle Dataset: https://www.kaggle.com/datasets/arashnic/fitbit
 - For Coursera Google Capstone Project
+
+## Preppindata
+2024
+- Week 1: Prep Air's Flow Card - SQL
