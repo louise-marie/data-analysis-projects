@@ -10,4 +10,4 @@ A repository for projects where I practice data analysis.
 
 ## Preppindata (https://www.preppindata.com/)
 2024
-- Week 1: Prep Air's Flow Card - SQL
+- Week 1: Prep Air's Flow Card - Google BigQuery
